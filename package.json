@@ -1,0 +1,1 @@
+{"description":"One funny one-star review of the Moon for make.fun: the Moon as the worst roommate ever","license":"MIT","name":"makefun-moon-one-star-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test main.test.ts"},"type":"module","version":"1.0.0"}
